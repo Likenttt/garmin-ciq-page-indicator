@@ -25,7 +25,7 @@ public function draw(dc as Dc, selectedIndex as Number) as Void {
 }
 ```
 
-[Preivew](./preview-page-indicator.png)
+![Preivew](./preview-page-indicator.png)
 
 Have fun~
 
